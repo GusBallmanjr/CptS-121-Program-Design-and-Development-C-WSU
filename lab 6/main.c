@@ -1,6 +1,7 @@
 /*
-
-
+  Programmer: Gus Ballman
+  Class: CptS 121; Lab Section 07
+  Date: 3/24/2025
 */
 
 #include "lab6.h"
@@ -103,4 +104,5 @@ int main(void)
 
 
 	return 0;
+
 }
