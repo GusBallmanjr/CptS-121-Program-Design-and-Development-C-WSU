@@ -1,6 +1,7 @@
 /*
-
-
+	Programmer: Gus Ballman
+	Class: CptS 121; Lab Section 07
+	Date: 4/2/2025
 */
 
 #include "Header.h"
@@ -34,4 +35,5 @@ int main(void)
 
 
 	return 0;
+
 }
