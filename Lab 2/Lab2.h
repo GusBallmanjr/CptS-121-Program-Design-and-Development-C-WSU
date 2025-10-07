@@ -1,6 +1,6 @@
 /*
 	Programmer: Gus Ballman
-	Class: CptS 121; Lab 07
+	Class: CptS 121; Lab section 07
 	Date: 1/29/2025
 */
 
@@ -31,3 +31,4 @@ double calc_grade(double, double, double);
 
 
 #endif
+
