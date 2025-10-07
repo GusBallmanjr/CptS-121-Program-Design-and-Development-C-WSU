@@ -1,6 +1,7 @@
 /*
-
-
+  Programmer: Gus Ballman
+  Class: CptS 121; Lab Section: 07
+  Date: 4/9/2025
 */
 
 #include "Header.h"
@@ -35,4 +36,5 @@ int main(void)
 
 	find_path(maze, 0, 1);
 	return 0;
+
 }
