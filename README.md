@@ -4,5 +4,4 @@ Programming Assignments:
 https://github.com/GusBallmanjr/CptS-121-Program-Design-and-Development-C-WSU/tree/Programming-Assignments
 
 Labs:
-
 https://github.com/GusBallmanjr/CptS-121-Program-Design-and-Development-C-WSU/tree/Labs
