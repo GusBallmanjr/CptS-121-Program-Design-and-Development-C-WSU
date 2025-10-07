@@ -1,6 +1,7 @@
 /*
-
-
+	Programmer: Gus Ballman
+	Class: CptS 121; Lab Section 07
+	Date: 4/2/2025
 */
 
 #include "Header.h"
@@ -81,4 +82,5 @@ double min_payment(Employee employee_data[200], int number_of_employees, double 
 		}
 	}
 	return min;
+
 }
