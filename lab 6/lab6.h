@@ -1,6 +1,7 @@
 /*
-
-
+  Programmer: Gus Ballman
+  Class: CptS 121; Lab Section 07
+  Date: 3/24/2025
 */
 
 #ifndef LAB6_H
@@ -15,5 +16,6 @@
 int read_integer(FILE* infile);
 int sum_digits(int n);
 void if_prime(int sum);
+
 
 #endif
