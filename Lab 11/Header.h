@@ -1,6 +1,7 @@
 /*
-
-
+	Programmer: Gus Ballman
+	Class: CptS 121; Lab Section 07
+	Date: 4/2/2025
 */
 
 #ifndef HEADER_H
@@ -17,7 +18,7 @@ typedef struct employee
 	char title; // title 'B' or 'M'
 	double hours_worked; // total number of hours worked
 	double payrate; // pay rate per hour
-	double payment; // total payment for the pay period – you will compute!
+	double payment; // total payment for the pay period â€“ you will compute!
 } Employee;
 
 int collect_data(FILE* input_stream, Employee employee_data[200]);
@@ -26,5 +27,6 @@ void determine_payment(Employee employee_data[200], int number_of_employees, dou
 double total_payroll(Employee employee_data[200], int number_of_employees);
 double max_payment(Employee employee_data[200], int number_of_employees);
 double min_payment(Employee employee_data[200], int number_of_employees, double max);
+
 
 #endif
