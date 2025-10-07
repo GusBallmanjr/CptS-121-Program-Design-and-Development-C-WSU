@@ -2,3 +2,6 @@ This repository is dedicated to all the C projects that are a part of my Compute
 
 Programming Assignments:
 https://github.com/GusBallmanjr/CptS-121-Program-Design-and-Development-C-WSU/tree/Programming-Assignments
+
+Labs:
+https://github.com/GusBallmanjr/CptS-121-Program-Design-and-Development-C-WSU/tree/Labs
