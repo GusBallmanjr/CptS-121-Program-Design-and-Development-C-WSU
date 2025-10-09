@@ -1,5 +1,0 @@
-* main
-  remotes/origin/HEAD -> origin/main
-  remotes/origin/Labs
-  remotes/origin/Programming-Assignments
-  remotes/origin/main
